@@ -1,0 +1,21 @@
+{
+  "name": "feidao",
+  "description": "plantform of software factory.",
+  "main": "dijit/main.js",
+  "authors": [
+    "taoqf <tao_qiufeng@126.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "feidao",
+    "softwarefactory"
+  ],
+  "homepage": "https://github.com/taoqf/feidao",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
